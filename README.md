@@ -1,9 +1,9 @@
 # ToDoList
 ### features
-..* add tast
-..* delete tast
-..* mark as done tast
-..* mark as not done tast
+* add task.
+* delete task.
+* mark as done task.
+* mark as not done task.
 
 #### [see the app](https://hardik501.github.io/ToDoList/)
 
